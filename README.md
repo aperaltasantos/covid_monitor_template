@@ -1,5 +1,6 @@
 # COVID Monitor Template
-Template for COVID19 dashboards 
+
+### Template for COVID19 dashboards 
 [Original dashboard](https://aperaltasantos.github.io/covid_pt/#vig-epidemiologica)
 
 
@@ -17,13 +18,20 @@ Template for COVID19 dashboards
 10.1. Settings > publish page > use the docs option 
 ----
 
-Congratulation your website is online 
+### Congratulation your website is online 
 
 --- 
-Website update
+
+### Website update
 11. Update the spreadsheet 
 12. Run the script 
 13. Push to github 
 
+----
+
+### Congratulation your website is updated 
+
+##### License 
+Please read the license terms [here](http://jkunst.com/highcharter/docs/index.html)
 
 
